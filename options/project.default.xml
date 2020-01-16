@@ -1,0 +1,76 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/LangSandbox-08_bytecode" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/polcodex" value="PREVIEW" />
+            <entry key="$USER_HOME$/bitehack" value="PREVIEW" />
+            <entry key="$USER_HOME$/learning/functional-java" value="PREVIEW" />
+            <entry key="$USER_HOME$/learning/jhipster/app" value="PREVIEW" />
+            <entry key="$USER_HOME$/learning/jhipster/login" value="PREVIEW" />
+            <entry key="$USER_HOME$/learning/jhipster/postgres" value="PREVIEW" />
+            <entry key="$USER_HOME$/learning/kotlin-spring/SpringBoot-Kotlin" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/doctorate/kt-plat-reserver" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/doctorate/kt-platinium-reservation" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/kompilatory/agh-polcodex" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/kompilatory/polcodex-lang" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/soa/agh-soa/lab5/book-manager" value="PREVIEW" />
+            <entry key="$USER_HOME$/mojestudiatozart/sp/Smergiel" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/commons/sqs-pusher" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/schooter" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/schooter/access-control-center" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/schooter/schooter-lambda" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/apple-sqs-consumer" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/apple-sqs-processor" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/braze-metrics" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/lbmp-uss" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/privacybroker-zuora-sync-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/spid-braze-sync-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/sqs-pusher" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/subscription-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/zuora-ac-sync-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/zuora-braze-sync-service" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/zuora-event-dispatcher" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/zuora-updater" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/schibsted/urs/gatling-performance-testing" value="PREVIEW" />
+            <entry key="$USER_HOME$/schibsted/urs/gatling-sbt-plugin-demo" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

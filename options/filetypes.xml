@@ -1,0 +1,54 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitkeep" type=".env file" />
+      <mapping pattern=".evn.template" type=".env file" />
+      <mapping pattern="pm2" type="ECMAScript 6" />
+      <mapping pattern="zcm" type="ECMAScript 6" />
+      <mapping pattern="testzcm" type="ECMAScript 6" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="21006-error-code" type="PLAIN_TEXT" />
+      <mapping pattern="trash" type="PLAIN_TEXT" />
+      <mapping pattern="pm-install" type="PLAIN_TEXT" />
+      <mapping pattern="europa_links" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="stash" type="PLAIN_TEXT" />
+      <mapping pattern="make-callout-create" type="PLAIN_TEXT" />
+      <mapping ext="polcodex" type="PLAIN_TEXT" />
+      <mapping ext="prisma" type="PLAIN_TEXT" />
+      <mapping ext="cls" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="mock" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="make-callout-update" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="command-line" approved="true" type="ECMAScript 6" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="main-callout" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="main-event-list" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="main-event-delete" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="main-callout-delete" approved="true" type="ECMAScript 6" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping pattern="make-callout-delete" approved="true" type="ECMAScript 6" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="main-callout-update" approved="true" type="ECMAScript 6" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="main-callout-list" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="main-callout-create" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="main-event-create" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="makefile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphql" approved="true" type="JavaScript" />
+      <removed_mapping pattern="pm" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="main-event-update" approved="true" type="ECMAScript 6" />
+      <removed_mapping pattern="command-line-event" approved="true" type="ECMAScript 6" />
+    </extensionMap>
+  </component>
+</application>

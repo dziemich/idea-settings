@@ -1,0 +1,37 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-08-26T09:54:24</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-08-26T10:00:18</property>
+    <property name="originalScheme">Darcula</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <attributes>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="9d94" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="be191b" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="bb0fbe" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="6f9d65" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
